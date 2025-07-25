@@ -1,3 +1,9 @@
+Name: MALLAM SHEHAZAD
+Company: CODTECH IT SOLUTIONS
+Domain: Cloud Computing
+ID:CT06DZ1209
+Duration: July to sep 2025
+
 # Task 4 - Cloud Security Implementation (CODTECH Internship)
 
 This repository contains implementation files for:
