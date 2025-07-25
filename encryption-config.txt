@@ -1,0 +1,5 @@
+Bucket: secure-storage-bucket
+Encryption: SSE-S3 (AES256)
+Enabled via: AWS Console or CLI
+IAM Restriction: Deny uploads without SSE enabled
+Optional: Use KMS key for additional control (SSE-KMS)
